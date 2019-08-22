@@ -1,0 +1,2 @@
+En esta parte van todos los casos de uso divididos por caracteristicas
+para realizarlos recomiendo la herramienta para maquetado: Axure rp Pro 7
